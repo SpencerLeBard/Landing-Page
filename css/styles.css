@@ -10801,3 +10801,10 @@ body {
 .footer {
   padding: 5rem 0;
 }
+.icons-img {
+  height: 30vh;
+  margin-bottom: 8vh;
+  margin-top:0px;
+  padding-top:0px;
+  border-top:0px;
+}
