@@ -88,6 +88,9 @@ body {
 ::-webkit-scrollbar {
   display: none;
 }
+.project-img {
+  height: 51vh;
+}
 
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
@@ -10710,8 +10713,11 @@ body {
   margin-bottom: 5rem;
 }
 
-.projects-section {
+/* .projects-section {
   padding: 10rem 0;
+} */
+.hero-pic {
+  margin-left: 14vw;
 }
 .projects-section .featured-text {
   padding: 2rem;
@@ -10809,8 +10815,7 @@ body {
 .icons-img {
   height: 30vh;
   margin-bottom: 5vh;
-  margin-top:0px;
-  padding-top:0px;
-  border-top:0px;
+  margin-top: 0px;
+  padding-top: 0px;
+  border-top: 0px;
 }
-
