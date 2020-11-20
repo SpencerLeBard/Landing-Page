@@ -82,6 +82,11 @@ body {
   color: #212529;
   text-align: left;
   background-color: #fff;
+  /* overflow: hidden; */
+}
+
+::-webkit-scrollbar {
+  display: none;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -10808,3 +10813,4 @@ body {
   padding-top:0px;
   border-top:0px;
 }
+
